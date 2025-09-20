@@ -1,0 +1,9 @@
+C:\Users\Administrator\Downloads\SHOPQA\SHOPQA\obj\Debug\SHOPQA.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\SHOPQA\SHOPQA\obj\Debug\SHOPQA.Properties.Resources.resources
+C:\Users\Administrator\Downloads\SHOPQA\SHOPQA\obj\Debug\SHOPQA.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\SHOPQA\SHOPQA\obj\Debug\SHOPQA.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\SHOPQA\SHOPQA\bin\Debug\SHOPQA.exe.config
+C:\Users\Administrator\Downloads\SHOPQA\SHOPQA\bin\Debug\SHOPQA.exe
+C:\Users\Administrator\Downloads\SHOPQA\SHOPQA\bin\Debug\SHOPQA.pdb
+C:\Users\Administrator\Downloads\SHOPQA\SHOPQA\obj\Debug\SHOPQA.exe
+C:\Users\Administrator\Downloads\SHOPQA\SHOPQA\obj\Debug\SHOPQA.pdb

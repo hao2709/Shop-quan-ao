@@ -1,0 +1,9 @@
+C:\Users\DELL\Desktop\SHOPQA\SHOPQA\bin\Debug\SHOPQA.exe.config
+C:\Users\DELL\Desktop\SHOPQA\SHOPQA\bin\Debug\SHOPQA.exe
+C:\Users\DELL\Desktop\SHOPQA\SHOPQA\bin\Debug\SHOPQA.pdb
+C:\Users\DELL\Desktop\SHOPQA\SHOPQA\obj\Debug\Shopquanao.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\SHOPQA\SHOPQA\obj\Debug\SHOPQA.Properties.Resources.resources
+C:\Users\DELL\Desktop\SHOPQA\SHOPQA\obj\Debug\Shopquanao.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\SHOPQA\SHOPQA\obj\Debug\Shopquanao.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\SHOPQA\SHOPQA\obj\Debug\SHOPQA.exe
+C:\Users\DELL\Desktop\SHOPQA\SHOPQA\obj\Debug\SHOPQA.pdb
